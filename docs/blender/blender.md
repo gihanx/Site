@@ -24,3 +24,10 @@ Creating an Assault Rifle in Substance 3D Painter and Unreal Engine 5 [80lv](htt
 Fusion 360 Weapon Course [Artstation Learning](https://www.artstation.com/learning/instructors/Duard-Mostert)
 
 Hard Surface Modling - Crytek Dev [Artstation Learning](https://www.artstation.com/learning/series/qrq/weapon-development-in-blender?utm_source=artstation&utm_medium=onsite_notification&utm_campaign=series)
+
+
+asd
+
+
+
+![[Site/docs/blender/assets/pipeline.png]]
