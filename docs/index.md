@@ -1,4 +1,4 @@
 sdfggs 
 
 dfdsaffasfd
-sfa ![[DP.png]]
+sfa ![](DP.png)
